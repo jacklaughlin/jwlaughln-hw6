@@ -1,7 +1,10 @@
-body { background: #f5f5fa; color: #1f1f29; }
-.container {
-    width: 85%;
-    margin: auto;
-    background-color: white;
-    border: 1px solid black;
-}
+<div class="personal-section">
+    <h1>Jack Laughlin</h1>
+    <h3>Favorite Color: Blue</h3>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+        Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+        nisi ut aliquip ex ea commodo consequat.
+    </p>
+</div>
